@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\user\Desktop\A25 Ex03 NoaLugashi 323835900 LielAvta 214287732\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
