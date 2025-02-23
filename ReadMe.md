@@ -31,11 +31,17 @@ ConsoleUI (EXE) - Provides an interactive text-based interface
 Technologies & Concepts Used
 
 ✅ C# (.NET)
+
 ✅ Polymorphism & Inheritance
+
 ✅ Collections (List, Dictionary<K,V>)
+
 ✅ Enums
+
 ✅ Exception Handling (FormatException, ArgumentException, ValueOutOfRangeException)
+
 ✅ Encapsulation & Separation of Concerns
+
 ✅ String Formatting
 
 How to Run the Project
